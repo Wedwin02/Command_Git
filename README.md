@@ -10,4 +10,5 @@
 13. git branch -M main 
 14. git push -u origin main
 15. git merge rama-name
+16. git status
 
