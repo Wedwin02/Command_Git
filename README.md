@@ -16,7 +16,7 @@ Commands used in Git
 9. git log -- Vizualizar los commit hechos
 10.  git checkout master -- cambio de rama
 11. git commit -- amend utilizado para recuperar el ultimo commit 
-12. git remote add origin git@github.com:Wedwin02/Command_Git.git
+12. git remote add origin git @github.com:Wedwin02/Command_Git.git
 13. git branch -M main 
 14. git push -u origin main
 <<<<<<< HEAD
