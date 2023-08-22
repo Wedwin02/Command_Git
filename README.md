@@ -19,4 +19,8 @@ Commands used in Git
 12. git remote add origin git@github.com:Wedwin02/Command_Git.git
 13. git branch -M main 
 14. git push -u origin main
+<<<<<<< HEAD
 >>>>>>> d0fc2b0 (Tercer commit)
+=======
+15. git merge rama-nmae
+>>>>>>> dedc0ab (Cuarto  commit)
